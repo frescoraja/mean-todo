@@ -1,0 +1,19 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "MEAN-stack Todo app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frescoraja/mean-todo.git"
+  },
+  "author": "David Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frescoraja/mean-todo/issues"
+  },
+  "homepage": "https://github.com/frescoraja/mean-todo#readme"
+}
